@@ -14,5 +14,5 @@ Hi there! This is EmirhanCavusoglu.
 [![Emirhan's github stats](https://github-readme-stats.vercel.app/api?username=emirhancavusoglu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Emirhan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhancavusoglu&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Emirhan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhancavusoglu&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
