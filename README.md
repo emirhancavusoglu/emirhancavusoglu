@@ -11,8 +11,8 @@ Hi there! This is EmirhanCavusoglu.
 </blockquote>
 
 
-[![Emirhan's github stats](https://github-readme-stats.vercel.app/api?username=emirhancavusoglu&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Emirhan's github stats](https://github-readme-stats.vercel.app/api?username=emirhancavusoglu&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Emirhan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhancavusoglu&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Emirhan's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emirhancavusoglu&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
