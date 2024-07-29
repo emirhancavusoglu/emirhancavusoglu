@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋! This is Emirhan Cavusoglu. </h1>
+<h1 align="center"> Hi 👋 This is Emirhan Cavusoglu. </h1>
 <h3 align="center"> Data Scientist | Machine Learning Engineer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirhancavusoglu&label=Profile%20views&color=0e75b6&style=flat" alt="emirhancavusoglu" /> </p>
 
